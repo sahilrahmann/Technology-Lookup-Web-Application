@@ -1,6 +1,7 @@
-<h1 align="center">Technology Lookup Web Application</h1>
+
 <a href="https://github.com/github_username/repo_name">
     <img src="static/techno.ico" alt="Logo" width="80" height="80">
+    <h1 align="center">Technology Lookup Web Application</h1>
   </a>
 <p align="center"><i>You'll get to know what all technologies a webpage is using.</i></p>
 <div align="center">
