@@ -33,7 +33,7 @@ This repo aims to find all the technologies that a specific website is using.
 
 ## About The Project
 
-![](Screenshots%201.png)
+![](Screenshots/1.png)
 
 
 
