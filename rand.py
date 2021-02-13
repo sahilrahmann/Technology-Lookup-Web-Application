@@ -5,8 +5,6 @@ import requests
 import json
 
 # Function to convert JSON file to .CSV file
-
-
 def json_to_csv():
     # Reading the JSON file using pandas library
     asd = pd.read_json("technologies.json")
@@ -16,8 +14,6 @@ def json_to_csv():
     print("Successfully created the csv")
 
 # Function to read the .CSV file
-
-
 def reading_csv():
     # Setting the variable "dataset" as global inorder to use it in another function
     global dataset
@@ -27,8 +23,6 @@ def reading_csv():
     print("Successfully read the csv")
 
 # Web Scraping and Checking technologies
-
-
 def techno(r):
     # If the link doesn't throws any exceptions then proceed with this code
     try:
