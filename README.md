@@ -80,8 +80,11 @@ To get a local copy up and running follow these simple steps.
 ## Contact
 
 Sahil Rahman
-LinkedIn: [https://www.linkedin.com/in/sahilrahman/]https://www.linkedin.com/in/sahilrahman/)
+
+LinkedIn: [https://www.linkedin.com/in/sahilrahman/]
+
 Twitter: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
 Email: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 
