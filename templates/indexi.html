@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="author" content="colorlib.com">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
+    <!-- Title -->
+    <title>Techno</title>
+    <!-- CSS Styling -->
+    <style>
+      body {
+        margin: 10px;
+        background: url("static/bg.jpg");
+        background-size: cover;
+        background-position: center center;
+      }
+      fieldset {
+        margin: 0;
+        padding: 0;
+        -webkit-margin-start: 0;
+        -webkit-margin-end: 0;
+        -webkit-padding-before: 0;
+        -webkit-padding-start: 0;
+        -webkit-padding-end: 0;
+        -webkit-padding-after: 0;
+        border: 0;
+      }
+      legend {
+        margin: 0;
+        padding: 0;
+        display: block;
+        -webkit-padding-start: 0;
+        -webkit-padding-end: 0;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      .s01 {
+        min-height: 70vh;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: center;
+            justify-content: center;
+        -ms-flex-align: center;
+            align-items: center;
+        font-family: 'Poppins', sans-serif;
+      }
+      .s01 form {
+        width: 100%;
+        max-width: 1290px;
+      }
+      .s01 form legend {
+        font-size: 60px;
+        line-height: 1;
+        color: #fff;
+        margin-bottom: 60px;
+        text-align: center;
+      }
+      .s01 form .inner-form {
+        background: rgba(0, 0, 0, 0.5);
+        padding: 50px 47px;
+        display: -ms-flexbox;
+        display: flex;
+        width: 100%;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        -ms-flex-align: center;
+            align-items: center;
+      }
+      .s01 form .inner-form .input-field {
+        margin-right: 30px;
+        height: 68px;
+      }
+      .s01 form .inner-form .input-field input {
+        height: 100%;
+        background: #fff;
+        border-radius: .5px;
+        border: 0;
+        display: block;
+        width: 100%;
+        padding: 10px 32px;
+        font-size: 20px;
+      }
+      .s01 form .inner-form .input-field input:hover, .s01 form .inner-form .input-field input:focus {
+        box-shadow: none;
+        outline: 0;
+      }
+      .s01 form .inner-form .input-field.first-wrap {
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+      }
+      .s01 form .inner-form .input-field.second-wrap {
+        width: 32.77%;
+        min-width: 180px;
+      }
+      .s01 form .inner-form .input-field.third-wrap {
+        width: 180px;
+        margin-right: 0;
+      }
+      .s01 form .inner-form .input-field.third-wrap .btn-search {
+        height: 100%;
+        width: 100%;
+        background: #4272d7;
+        white-space: nowrap;
+        border-radius: .5px;
+        font-size: 20px;
+        color: #fff;
+        transition: all .2s ease-out, color .2s ease-out;
+        border: 0;
+        cursor: pointer;
+      }
+      .s01 form .inner-form .input-field.third-wrap .btn-search:hover {
+        background: #2d62d3;
+      }
+      .output {
+        background-color: #fff;
+        height: 70px;
+        overflow: auto;
+      }
+      .output1 {
+        font-size: 30px;
+        color: #fff;
+        text-align: center;
+      }
+    </style>
+    <!-- Adding an icon -->
+    <link rel="shortcut icon" href="static/techno.ico">
+  </head>
+  <body>
+    <div class="s01">
+      <form name="passdata" action="." method="POST">
+        <fieldset>
+          <legend>Technology Lookup Web Application</legend>
+        </fieldset>
+        <div class="inner-form">
+          <div class="input-field first-wrap">
+            {{( form.r )}}
+          </div>
+          <div class="input-field third-wrap">
+            <input type=submit value=Submit>
+          </div>
+        </div>
+      </form>
+    </div>
+    <span class="output1">OUTPUT:</span>
+    <div class="output">
+      {% if s != None %}
+      {{ s }}
+      {% endif %}
+    </div>
+  </body>
+</html>
