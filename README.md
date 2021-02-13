@@ -6,15 +6,9 @@
 <a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/issues"><img src="https://img.shields.io/github/issues/sahilrahman12/Technology-Lookup-Web-Application" alt="Issues Badge"/></a>
 </div>
 <br>
-<p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
+<p align="center"><i>Want to connect? See you at <a href="https://www.linkedin.com/in/sahilrahman/">LinkedIn</a></i></p>
 <br>
-This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
-
-If you are intersted, will create a PR for to add your `README` profile here.
-
-If you like this Repo, Please click the :star:
-
-List of `awesome README Profile` categories mentioned below
+This repo aims to find all the technologies that a specific website is using.
 
 ## Contents
   - [Github README PROFILE CATEGORY](#github-readme-profile-category)
