@@ -35,23 +35,23 @@ This repo aims to find all the technologies that a specific website is using.
 
 This project uses the provided JSON file and converts it into a . CSV file using pandas read_json() function. To identify whether any technologies among the given data, is used by any specific website or not, we use the Technology name and Technology website to differentiate. To develop the frontend, HTML & CSS has been used. Flask, a Python micro web framework, is used to build up the web-applications. The user has to input the URL of any website on to the input field and click on the "Submit" button; it will show all the website's technologies, under the output section.
 
-### Map Tool -> World Map Tool UI
+### Screenshot 1
 ![](Screenshots/1.png)
 
 
-### Map Tool -> World Map Tool UI
+### Screenshot 2
 ![](Screenshots/2.png)
 
 
-### Map Tool -> World Map Tool UI
+### Screenshot 3
 ![](Screenshots/3.png)
 
 
-### Map Tool -> World Map Tool UI
+### Screenshot 4
 ![](Screenshots/4.png)
 
 
-### Map Tool -> World Map Tool UI
+### Screenshot 5
 ![](Screenshots/5.png)
 
 
@@ -65,7 +65,17 @@ This project uses the provided JSON file and converts it into a . CSV file using
 * Flask
 * WTForms
 
+## Getting Started
 
+To get a local copy up and running follow these simple steps.
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/sahilrahman12/Technology-Lookup-Web-Application.git
+   ```
 
 
 ## Website
