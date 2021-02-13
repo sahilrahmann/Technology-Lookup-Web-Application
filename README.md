@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="static/techno.ico" alt="Logo" width="80" height="80">
     <h3 align="center">Technology Lookup Web Application</h3>
   </a>
 </p>
