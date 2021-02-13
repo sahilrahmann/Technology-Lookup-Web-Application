@@ -1,6 +1,6 @@
 <h1 align="center">Technology Lookup Web Application</h1>
 <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="static/techno.ico" alt="Logo" width="80" height="80">
   </a>
 <p align="center"><i>You'll get to know what all technologies a webpage is using.</i></p>
 <div align="center">
@@ -68,17 +68,23 @@ This project uses the provided JSON file and converts it into a . CSV file using
 * Flask
 * WTForms
 
+
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
 
+
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/sahilrahman12/Technology-Lookup-Web-Application.git
    ```
+   
+
 
 ## Contact
 
@@ -87,6 +93,7 @@ Sahil Rahman
 LinkedIn: https://www.linkedin.com/in/sahilrahman/
 
 Twitter: https://twitter.com/srjordon414
+
 
 
 ## :man_astronaut: Show your support
