@@ -7,14 +7,10 @@ from rand import techno
 app = Flask(__name__)
 
 # Using StringField to take the input in form of a String
-
-
 class InputForm(Form):
     r = StringField(validators=[validators.InputRequired()])
 
 # Calling the decorator to tell the application which URL should call the index() funtion
-
-
 @app.route('/', methods=['GET', 'POST'])
 # Declaring the function to take the data from the input field and calls the techno() funtion to return the output
 def index():
