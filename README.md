@@ -77,12 +77,12 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/sahilrahman12/Technology-Lookup-Web-Application.git
    ```
 
+## Contact
 
-## Website
-
-Link : https://awesome-github-readme-profile.netlify.app
-
-<a href="https://awesome-github-readme-profile.netlify.app"><img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" /></a>
+Sahil Rahman
+LinkedIn: [https://www.linkedin.com/in/sahilrahman/]https://www.linkedin.com/in/sahilrahman/)
+Twitter: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Email: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 
 ## :man_astronaut: Show your support
