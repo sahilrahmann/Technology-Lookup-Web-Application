@@ -33,11 +33,9 @@ This repo aims to find all the technologies that a specific website is using.
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![](Screenshots%201.png)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`sahilrahman12`, `Technology-Lookup-Web-Application`, `https://www.linkedin.com/in/sahilrahman/`, `srjordon414@gmail.com`, `project_title`, `project_description`
+
 
 
 ### Built With
