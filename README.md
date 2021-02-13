@@ -1,49 +1,198 @@
-# Terrorism Analysis with Insights
-
-**Overview**
-
-Protective vehicles are less in numbers with the Army and are distributed uniformly across the area. Similarly, Explosive Detection Dogs ( ED Dogs ) are only less in the entire country. This web application can be used as a Predictive Analysis tool to find the trendline of each kind of Attack ( Bombing, Assassination, Etc.). This tool help in finding the concentration of Attack type - Bombing in the area which would help in allocation of the resources. Visualizing the data gives clear patterns about the data and makes it easy for the analysis. There are two components:
-
-**1. Map Tool ->** It is used to generate a Scatter Geo Map with markers for highlighting the latitude/longitude where the incident happened based on combinations of Month, Day, Attack Type, Region, Country, State and City, and filter the 9 Type of Attacks ( Bombing, Assassination, Kidnapping, Etc.). Clicking and hovering of the mouse show pieces of information. 
-
-**2. Chart Tool ->** It is used to show the Stacked Line Chart images of the frequency of terrorist incidents each year. One can Group first by (Country Attacked, Region, Target Nationality, Target Type, Type of Attack, Weapon Type, Terrorist Organisation) with a search based on the selected Group. Both the components are available separately for the World and India. 
-
-[Click here to see the running application](https://terrorism-analysis-insights.herokuapp.com/)
-
-Two Types of visualization have been used:
-
-- World Map Plot
-   - World Map Plot
-   - India Specific Plot
-     
-- Area Chart Plot
-   - World Area Chart
-   - India Specific Area Chart
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+***
+***
+***
+*** To avoid retyping too much info. Do a search and replace for the following:
+*** github_username, repo_name, twitter_handle, email, project_title, project_description
+-->
 
 
-**Dataset:**
-In this project, the dataset has approximately 1,90,000 records. 
 
-**Tools used:**
-Python programming language has been used for the development of this project, whereas Dash and Plotly are the critical components used to form the UI (User Interface) for the webpage and Bootstrap has been used for the styling purpose. 
-
-
-### Map Tool -> World Map Tool UI
-![screencapture-127-0-0-1-8050-2020-09-10-03_23_52](https://user-images.githubusercontent.com/35863072/92661582-89833c80-f31a-11ea-9213-6db2d21c769e.jpg)
-
-
-### Map Tool -> India Map Tool UI
-![screencapture-127-0-0-1-8050-2020-09-10-03_24_23](https://user-images.githubusercontent.com/35863072/92661758-ef6fc400-f31a-11ea-8a0a-b02e6adb56b1.jpg)
-
-
-### Chart Tool -> World Chart Tool UI
-![screencapture-127-0-0-1-8050-2020-09-10-00_22_03](https://user-images.githubusercontent.com/35863072/92661827-14643700-f31b-11ea-8a12-9a62afb2ab21.jpg)
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-### Chart Tool -> India Chart Tool UI
-![screencapture-127-0-0-1-8050-2020-09-10-00_22_57](https://user-images.githubusercontent.com/35863072/92661846-1f1ecc00-f31b-11ea-9079-11b72ae0d556.jpg)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">project_title</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+</p>
 
 
-### Modal/Popup UI
-![screencapture-127-0-0-1-8050-2020-09-10-00_23_45](https://user-images.githubusercontent.com/35863072/92661854-2645da00-f31b-11ea-858b-017d3a333b37.jpg)
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Here's a blank template to get started:
+**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+
+
+### Built With
+
+* []()
+* []()
+* []()
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/github_username/repo_name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* []()
+* []()
+* []()
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/github_username/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/github_username/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/github_username/repo/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/github_username
