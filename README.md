@@ -2,10 +2,8 @@
 <p align="center"><i>You'll get to know what all technologies a webpage is using.</i></p>
 <div align="center">
   <a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/stargazers"><img src="https://img.shields.io/github/stars/sahilrahman12/Technology-Lookup-Web-Application" alt="Stars Badge"/></a>
-<a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/network/members"><img src="	https://img.shields.io/github/forks/sahilrahman12/Technology-Lookup-Web-Application" alt="Forks Badge"/></a>
-<a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/pulls"><img src="https://img.shields.io/github/issues-pr/elangosundar/awesome-README-templates" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/issues"><img src="	https://img.shields.io/github/issues/sahilrahman12/Technology-Lookup-Web-Application" alt="Issues Badge"/></a>
-<a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/elangosundar/awesome-README-templates?color=2b9348"></a>
+<a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/network/members"><img src="https://img.shields.io/github/forks/sahilrahman12/Technology-Lookup-Web-Application" alt="Forks Badge"/></a>
+<a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/issues"><img src="https://img.shields.io/github/issues/sahilrahman12/Technology-Lookup-Web-Application" alt="Issues Badge"/></a>
 </div>
 <br>
 <p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
