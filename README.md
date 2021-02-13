@@ -1,4 +1,7 @@
 <h1 align="center">Technology Lookup Web Application</h1>
+<a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 <p align="center"><i>You'll get to know what all technologies a webpage is using.</i></p>
 <div align="center">
   <a href="https://github.com/sahilrahman12/Technology-Lookup-Web-Application/stargazers"><img src="https://img.shields.io/github/stars/sahilrahman12/Technology-Lookup-Web-Application" alt="Stars Badge"/></a>
@@ -81,13 +84,11 @@ To get a local copy up and running follow these simple steps.
 
 Sahil Rahman
 
-LinkedIn: [https://www.linkedin.com/in/sahilrahman/]
+LinkedIn: https://www.linkedin.com/in/sahilrahman/
 
-Twitter: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-Email: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Twitter: https://twitter.com/srjordon414
 
 
 ## :man_astronaut: Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you liked this project!
