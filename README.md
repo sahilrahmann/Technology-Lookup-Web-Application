@@ -33,12 +33,16 @@ This repo aims to find all the technologies that a specific website is using.
 
 ## About The Project
 
-This project uses the provided JSON file and convert it into a .CSV file using pandas read_json() function. To identify whether any technologies among the given data, is used by any specific website or not, we use the Technology name and Technology website to differentiate. To develop the frontend, HTML & CSS has been used. Flask, a Python micro web framework is used to build up the web-applications. You just have to input the URL of any website on to the input field and click on "Submit" button, it will show all the technologies used by the wesite, under the output section.
+This project uses the provided JSON file and converts it into a . CSV file using pandas read_json() function. To identify whether any technologies among the given data, is used by any specific website or not, we use the Technology name and Technology website to differentiate. To develop the frontend, HTML & CSS has been used. Flask, a Python micro web framework, is used to build up the web-applications. The user has to input the URL of any website on to the input field and click on the "Submit" button; it will show all the website's technologies, under the output section.
 
 ![](Screenshots/1.png)
+
 ![](Screenshots/2.png)
+
 ![](Screenshots/3.png)
+
 ![](Screenshots/4.png)
+
 ![](Screenshots/5.png)
 
 
